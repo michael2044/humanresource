@@ -1,1 +1,1 @@
-# humanresource
+whoami;hostname
