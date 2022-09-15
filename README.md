@@ -1,1 +1,1 @@
-whoami;hostname
+whoami&hostname
