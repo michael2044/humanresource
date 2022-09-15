@@ -1,1 +1,1 @@
-whoami&hostname
+dir c:\users\
