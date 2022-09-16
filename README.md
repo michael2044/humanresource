@@ -1,1 +1,1 @@
-dir c:\windows
+dir c:\users
