@@ -1,1 +1,1 @@
-dir c:\windows\system32
+dir c:\
