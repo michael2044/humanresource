@@ -1,1 +1,1 @@
-dir c:\Windows\
+dir c:\
